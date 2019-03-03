@@ -1,0 +1,7 @@
+{
+  "author": "Unknown",
+  "version":"0.0.5.4",
+  "name":"CivitasScrapers",
+  "update_directory": "https://raw.githubusercontent.com/reddit-reaper/ScraperPackages/master/CivitasScrapers/",
+  "remote_meta": "https://raw.githubusercontent.com/reddit-reaper/ScraperPackages/master/CivitasScrapers/meta.json"
+}
